@@ -315,4 +315,287 @@ Minuman ini sangat populer di kawasan Pusuk atau hutan lindung Lombok, sering di
         ],
         steps: [
             "Pastikan air nira yang digunakan adalah nira baru (pagi hari) yang belum terfermentasi.",
-            "Saring air nira menggunakan kain bersih untuk m
+            "Saring air nira menggunakan kain bersih untuk membuang kotoran atau serbuk sabut aren.",
+            "Rebus sebentar hingga mendidih JIKA ingin lebih awet (namun rasa segar alaminya akan sedikit berubah), atau sajikan mentah segar.",
+            "Siapkan gelas saji, beri es batu secukupnya.",
+            "Tuang Tuak Manis ke dalam gelas.",
+            "Bisa ditambahkan daging buah durian untuk aroma yang lebih eksotis.",
+            "Sajikan segera. (Perhatian: Tuak manis mudah berubah menjadi cuka/asam jika didiamkan terlalu lama di suhu ruang)."
+        ],
+        tips: [
+            "Segera simpan di kulkas jika tidak langsung diminum untuk mencegah fermentasi.",
+            "Jangan mencampur dengan bahan asam lainnya agar rasa manis aslinya tidak rusak.",
+            "Paling nikmat diminum langsung di lokasi penyadapan (hutan aren)."
+        ],
+        img: 'img/placeholder_tuak.jpg'
+    },
+    {
+        id: 'es_poteng',
+        name: 'Es Poteng',
+        desc: `Es Poteng adalah dessert tradisional menyegarkan yang terdiri dari tape singkong (poteng) khas Lombok dan es serut. Poteng Lombok memiliki tekstur yang sangat lembut dan manis karena dibuat dari singkong pilihan dan ragi berkualitas, seringkali berwarna hijau alami dari daun katu/pandan.
+
+Biasanya disajikan bersama Jaje Tujak (ketan tumbuk), namun versi Es Poteng fokus pada kesegaran kuah tape yang manis dingin.
+
+Sangat cocok sebagai hidangan penutup setelah makan makanan pedas khas Lombok seperti Ayam Taliwang atau Pelecing.`,
+        ingredients: [
+            "200 gr Poteng (Tapai Singkong manis khas Lombok)",
+            "Mangkok es serut",
+            "5 sdm sirup gula atau susu kental manis",
+            "Air matang/air es secukupnya"
+        ],
+        steps: [
+            "Siapkan poteng yang sudah matang dan manis (biasanya yang berair).",
+            "Siapkan mangkuk saji.",
+            "Masukkan beberapa potong poteng beserta sedikit air tapenya ke dalam mangkuk.",
+            "Tumpuk dengan es serut gunungan di atasnya.",
+            "Siram dengan sirup gula merah, sirup cocopandan, atau susu kental manis sesuai selera.",
+            "Aduk sedikit sebelum disantap agar dinginnya merata.",
+            "Nikmati kesegaran manis asam khas tape."
+        ],
+        tips: [
+            "Pilih poteng yang benar-benar matang (lembek dan berair) untuk rasa terbaik.",
+            "Jika poteng sudah cukup manis, kurangi penggunaan sirup tambahan.",
+            "Tambahkan adonan tepung beras (bubur sumsum) jika ingin variasi tekstur."
+        ],
+        img: 'img/placeholder_poteng.jpg'
+    },
+    {
+        id: 'urap_urap',
+        name: 'Urap-Urap Timun',
+        desc: `Urap-urap khas Lombok, khususnya yang berbahan dasar mentimun cacah dan tauge, adalah pendamping wajib yang menyegarkan. Berbeda dengan urap Jawa yang bumbunya dikukus, urap Lombok seringkali menggunakan kelapa parut sangrai atau kelapa parut mentah yang dibumbui sambal terasi pedas.
+
+Teksturnya renyah (crunchy) dan rasanya pedas gurih, sangat pas untuk menetralkan rasa lemak setelah makan daging. Biasanya disajikan dengan taburan kedelai goreng.
+
+Sajian ini sederhana namun kaya serat dan vitamin, mencerminkan pola makan sehat masyarakat tradisional Lombok.`,
+        ingredients: [
+            "2 buah mentimun, cacah/cincang kasar",
+            "100 gr tauge, buang ekor",
+            "100 gr kacang panjang, potong kecil dan rebus sebentar",
+            "150 gr kelapa parut setengah tua",
+            "<b>Bumbu Halus:</b>",
+            "3 buah cabai merah",
+            "5 buah cabai rawit",
+            "2 siung bawang putih",
+            "1 cm kencur",
+            "1 sdt terasi bakar",
+            "1 sdt gula merah",
+            "1 sdt garam",
+            "1 buah jeruk limau"
+        ],
+        steps: [
+            "Siapkan sayuran: Cacah mentimun (buang biji jika tidak suka berair). Rebus kacang panjang dan tauge sebentar saja, tiriskan.",
+            "Haluskan bumbu (cabai, bawang, kencur, terasi, gula, garam).",
+            "Campurkan bumbu halus dengan kelapa parut. Aduk rata atau ulek ringan agar bumbu meresap ke kelapa.",
+            "Bisa dikukus sebentar bumbu kelapanya jika ingin lebih awet, atau biarkan mentah untuk rasa yang lebih fresh.",
+            "Dalam wadah besar, campur sayuran (timun, tauge, kacang panjang) dengan bumbu kelapa.",
+            "Aduk hingga tercampur rata.",
+            "Beri perasan air jeruk limau untuk aroma segar.",
+            "Sajikan segera."
+        ],
+        tips: [
+            "Gunakan kelapa yang tidak terlalu tua agar rasanya manis dan milky.",
+            "Jangan mencampur sayur dengan bumbu terlalu lama sebelum dimakan agar sayuran tidak layu/berair.",
+            "Kencur adalah kunci aroma segar pada bumbu urap ini."
+        ],
+        img: 'img/placeholder_urap.jpg'
+    },
+    {
+        id: 'ayam_taliwang',
+        name: 'Ayam Taliwang',
+        desc: `Ayam Taliwang adalah raja kuliner Lombok yang sudah mendunia. Berasal dari Karang Taliwang, Mataram, sajian ini menggunakan ayam kampung muda (usia 3-4 bulan) yang dibakar dengan bumbu pedas super kaya rempah.
+
+Keunikannya ada pada proses memasaknya: ayam dibakar setengah matang, lalu digeprek (dimemarkan), dicelupkan ke dalam bumbu tumis pedas, lalu dibakar kembali hingga bumbu meresap dan terkaramelisasi. Rasa pedas, gurih, dan *smoky* bercampur jadi satu.
+
+Wajib disajikan bersama Pelecing Kangkung dan Beberuk Terong. Ini adalah definisi "makan enak" bagi orang Lombok.`,
+        ingredients: [
+            "1 ekor ayam kampung muda (uk. 400-500gr), belah dadanya (bekakak)",
+            "1 sdm air kapur sirih (opsional, untuk kerenyahan kulit)",
+            "1 sdm garam",
+            "Minyak untuk menumis",
+            "<b>Bumbu Halus:</b>",
+            "10 butir bawang merah",
+            "5 siung bawang putih",
+            "15 buah cabai merah keriting",
+            "10 buah cabai rawit merah",
+            "1,5 sdt terasi bakar khas Lombok",
+            "1 ruas kencur",
+            "1 buah tomat merah",
+            "1 sdm gula merah",
+            "1 sdt garam"
+        ],
+        steps: [
+            "Cuci bersih ayam, lumuri garam. Diamkan 15 menit.",
+            "Bakar ayam di atas bara api hingga setengah matang. Angkat.",
+            "Memarkan/geprek ayam perlahan agar tulangnya sedikit remuk dan badan melebar, tapi jangan sampai hancur.",
+            "Tumis bumbu halus hingga harum dan matang berminyak. Tambahkan sedikit air.",
+            "Masukkan ayam bakar ke dalam tumisan bumbu. Masak ungkep sebentar hingga bumbu meresap ke dalam daging.",
+            "Ambil ayam, bakar kembali di atas bara api.",
+            "Sambil dibakar, olesi terus dengan sisa bumbu tumisan tadi bolak-balik hingga matang sempurna dan bumbu agak gosong/karamel.",
+            "Sajikan panas dengan kucuran jeruk limau di atasnya."
+        ],
+        tips: [
+            "Wajib memggunakan ayam kampung muda agar daging manis dan empuk. Ayam broiler rasanya akan berbeda.",
+            "Gunakan api arang/batok kelapa untuk aroma asap yang otentik.",
+            "Jangan pelit bumbu, Ayam Taliwang harus berlumur bumbu tebal."
+        ],
+        img: 'img/placeholder_taliwang.jpg'
+    }
+];
+
+function showToast(message) {
+    const toast = document.getElementById('toast');
+    if (!toast) return;
+
+    toast.textContent = message;
+    toast.classList.add('show');
+
+    setTimeout(() => {
+        toast.classList.remove('show');
+    }, 2000);
+}
+
+// --- FUNGSI RENDER UTAMA (INDEX) ---
+
+function renderFoodList() {
+    const listContainer = document.getElementById('food-container');
+    if (!listContainer) return;
+
+    listContainer.innerHTML = '';
+    foods.forEach(food => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        card.innerHTML = `
+    <img src="${food.img}" alt="${food.name}" class="card-img">
+    <h3>${food.name}</h3>
+    <p>${food.desc.substring(0, 150)}...</p>
+    <div class="card-actions">
+        <button onclick="showRecipe('${food.id}')" class="btn">Lihat Resep</button>
+        <button onclick="addToFavorite('${food.id}')" class="btn btn-favorite">
+    ❤️ Favorit
+</button>
+
+    </div>
+`;
+        listContainer.appendChild(card);
+    });
+}
+
+// --- FUNGSI TOGGLE RESEP ---
+
+function showRecipe(id) {
+    const food = foods.find(f => f.id === id);
+    if (!food) return;
+
+    // Toggle Visibility
+    document.getElementById('food-list').style.display = 'none';
+    const recipeView = document.getElementById('recipe-view');
+    recipeView.style.display = 'block';
+
+    // Set Data
+    document.getElementById('recipe-title').innerText = `Resep ${food.name}`;
+    const recipeContent = document.getElementById('recipe-content');
+
+    recipeContent.innerHTML = `
+        <div class="recipe-card" style="margin-top: 0;">
+            <div class="recipe-desc" style="margin-bottom: 20px; text-align: justify; line-height: 1.6;">
+                <p>${food.desc.replace(/\n\n/g, '<br><br>')}</p>
+            </div>
+
+            <p><strong>Bahan-bahan:</strong></p>
+            <ul style="margin-bottom: 20px;">
+                ${food.ingredients.map(ing => `<li>${ing}</li>`).join('')}
+            </ul>
+
+            <p><strong>Langkah Memasak:</strong></p>
+            <ol style="margin-bottom: 20px;">
+                ${food.steps.map(step => `<li>${step}</li>`).join('')}
+            </ol>
+
+            <div class="recipe-tips" style="background: #fff3cd; padding: 15px; border-radius: 8px; border-left: 5px solid #ffc107;">
+                <p><strong>💡 Tips Koki:</strong></p>
+                <ul>
+                     ${food.tips.map(tip => `<li>${tip}</li>`).join('')}
+                </ul>
+            </div>
+        </div>
+    `;
+
+    // Scroll
+    recipeView.scrollIntoView({ behavior: 'smooth' });
+}
+
+function backToList() {
+    document.getElementById('recipe-view').style.display = 'none';
+    const foodList = document.getElementById('food-list');
+    foodList.style.display = 'block';
+    foodList.scrollIntoView({ behavior: 'smooth' });
+}
+
+// --- FUNGSI HALAMAN FAVORIT ---
+
+function renderFavorites() {
+    const favContainer = document.getElementById('favorite-list');
+    const emptyMsg = document.getElementById('empty-message');
+    if (!favContainer) return;
+
+    const favIds = JSON.parse(localStorage.getItem('lombokFavorites') || '[]');
+    const favFoods = foods.filter(f => favIds.includes(f.id));
+
+    if (favFoods.length === 0) {
+        emptyMsg.style.display = 'block';
+        favContainer.innerHTML = '';
+        return;
+    } else {
+        emptyMsg.style.display = 'none';
+    }
+
+    favContainer.innerHTML = '';
+    favFoods.forEach(food => {
+        const card = document.createElement('div');
+        card.className = 'card';
+        // Tampilan Favorit sederhana: Nama, Deskripsi, dan tombol Hapus
+        card.innerHTML = `
+            <h3>${food.name}</h3>
+            <p>${food.desc.substring(0, 150)}...</p>
+            <div class="card-actions">
+                <button onclick="removeFromFavorite('${food.id}')" class="btn btn-danger">Hapus dari Favorit</button>
+            </div>
+        `;
+        favContainer.appendChild(card);
+    });
+}
+
+// --- LOGIKA MENYIMPAN DATA ---
+
+function addToFavorite(id) {
+    let favs = JSON.parse(localStorage.getItem('lombokFavorites') || '[]');
+
+    // Cek Duplikasi
+    if (!favs.includes(id)) {
+        favs.push(id);
+        localStorage.setItem('lombokFavorites', JSON.stringify(favs));
+        showToast('❤️ Ditambahkan ke favorit');
+    } else {
+        showToast('⚠️ Makanan ini sudah ada di daftar Favorit Anda.');
+    }
+}
+
+function removeFromFavorite(id) {
+    let favs = JSON.parse(localStorage.getItem('lombokFavorites') || '[]');
+    favs = favs.filter(favId => favId !== id);
+    localStorage.setItem('lombokFavorites', JSON.stringify(favs));
+    renderFavorites(); // Refresh list immediately
+}
+
+// --- INIT ---
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Determine page context by checking element existence
+    if (document.getElementById('food-container')) {
+        renderFoodList();
+    }
+
+    if (document.getElementById('favorite-list')) {
+        renderFavorites();
+    }
+});
